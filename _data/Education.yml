@@ -2,17 +2,18 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Farvard University, PhD in Computer Science
+  - title: Turing School of Software and Design
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
-    date: Mar. 2019 - Aug. 2023
-  - title: Stanfort University, MA in Computer Science
+      - 1800 Hours
+      - Only accreddited bootcamp in the United States
+      - In depth teachings of Ruby on Rails following MVC conventions
+      - Consumed and created RESTful APIs
+      - Collaborated on developer teams ranging from 2 members to 11 members
+    date: Mar. 2024 - Nov. 2024
+  - title: Ocean County College, BAA in Liberal Arts/General Studies & BAA in Business/Web Marketing
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
-    grade: "**GPA**: `4.1/4.3`"
-    date: Mar. 2014 - Feb. 2016
-  - title: Kambridge University, BA in Electronic Engineering
-    grade: "**GPA**: `3.9/4.3`"
-    date: Mar. 2010 - Feb. 2014
+      - Fundamentals of Javascript
+      - Learned basics of computer science, business management, and web marketing
+      - On-campus learning of a rich variety of general education topics
+    grade: "**GPA**: `3.9`"
+    date: Sep. 2015 - May. 2020

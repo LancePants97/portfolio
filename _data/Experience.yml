@@ -2,21 +2,11 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Twin Lights Brewing
+    role: Brewer/Cellarman/Distribution/Packaging
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
-    description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+        - Skilled in utilizing a variety of brewing techniques and ingredients to create unique and flavorful beverages. 
+        - Adept at collaborating with cross-functional teams to optimize production efficiency while adhering to strict quality standards.
+        - Proven track record of ensuring consistency in taste and maintaining sanitary conditions in the brewery.
+        - Demonstrated excellent time management and resource management while under intense brew house conditions.
+    date: Oct. 2020 - Mar. 2024

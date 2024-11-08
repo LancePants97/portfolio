@@ -2,20 +2,16 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "Guardian Angel"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - "‘Guardian Angel’ is a full stack Rails application that will allow users to create an account and gain access to resources that can boost mental health and/or help in times of crisis. Users will be able to select from a list of emotions and feelings as many times per day as they wish. By accessing the ‘ThroughLine API’, a list of helpful resources will be returned to the user, including, but not limited to, phone numbers, sms hotlines, support groups, and relevant, helpful websites."
+      - "The BE Journal Repository is responsible for serving as the data base of a users journal information. It packages JSON responses for the front end application with a users particular journal entries along with an affirmation which is unique. This affirmation comes from another API being consumed within the Guardian Angel Backend Journal Repository."
+      - "Technologies Used: Ruby on Rails, Bootstrap, Sinatra"
+    image: <img src="assets/img/guardian_angel_logo.jpeg" alt="Guardian Angel Logo" width="200"/>
+  
+  - title: "Chess With Frien-emies"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
-    description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - "‘Chess With Frienemies' is a full stack Ruby on Rails/Python/React application that allows users to sign into an account and connect with their friends to play games of chess. Users can play multiple games at once with different users on their friends list."
+      - "Worked on the Users back end application to create 8 RESTful API endpoints for the front end to consume."
+      - "Technologies Used: Ruby on Rails, Python, Javascript, Websockets, CircleCI"
+    image: <img src="assets/img/chess_fight.jpeg" alt="Chess Fight" width="200"/>

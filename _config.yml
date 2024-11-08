@@ -2,17 +2,17 @@ title: My Portfolio Site
 profile_img: /assets/img/logo.png
 icon_img: /assets/img/logo.png
 
-name: "Your Name"
-job: "Your Job Title"
+name: "Lance Nelson"
+job: "Backend Software Engineer"
 
-phone_number: 111-222-3333
-address: City, Country
-email: email@example.com
-linkedin_username: linkedin
-github_username: github
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
+phone_number: 732-232-6935
+address: Point Pleasant, New Jersey
+email: LanceN04@gmail.com
+linkedin_username: lance-nelson
+github_username: LancePants97
+instagram_username: lance_toyf
+twitter_username: n/a
+facebook_username: lance.nelson.370177
 
 theme: jekyll-professional-resume
 
